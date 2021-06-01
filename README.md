@@ -2,7 +2,7 @@
 Use mycroft as a vessel for your no doubt hilarious knock-knock jokes.
 
 ## About
-Use mycroft as a vessel for your no doubt hilarious knock-knock jokes. say "wake word, knock knock", and wait for mycroft to respond with "who's there". say your next line, and mycroft will repeat it with "... who?" tacked on, then stop listening so you can deliver your amazing punchline.
+Use Mycroft as a vessel for your no doubt hilarious knock-knock jokes. Say "wake word, knock knock", and wait for mycroft to respond with "Who's there?". Say your next line, and Mycroft will repeat it with "... who?" tacked on, then let you deliver your amazing punchline. At the end it will gratify you with a variety of responses.
 
 ## Examples
 * "Knock knock."

@@ -7,7 +7,6 @@ Use Mycroft as a vessel for your no doubt hilarious knock-knock jokes. Say "wake
 ## Examples
 * "Knock knock."
 * "Bonk bonk."
-* "Knack knack."
 * "Bank bank."
 
 ## Credits

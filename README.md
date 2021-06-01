@@ -8,6 +8,7 @@ Use mycroft as a vessel for your no doubt hilarious knock-knock jokes. say "wake
 * "Knock knock."
 * "Bonk bonk."
 * "Knack knack."
+* "Bank bank."
 
 ## Credits
 xdpirate
@@ -16,5 +17,7 @@ xdpirate
 **Entertainment**
 
 ## Tags
-#Knock, knock knock, joke, jokes
-
+#knock
+#knock knock
+#joke
+#jokes
